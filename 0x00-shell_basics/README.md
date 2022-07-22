@@ -1,5 +1,9 @@
 # Shell basics
 
+Shell is a program that takes commands from the keyboard and gives them to the operating system to perform.
+
+These are basic shell commands.
+
 # Table of contents
 
 * [Write a script that prints the absolute path name of the current working directory.](https://github.com/Chidiagb/alx-system_engineering-devops/blob/master/0x00-shell_basics/0-current_working_directory)
