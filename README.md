@@ -1,7 +1,5 @@
 # ALX System Engineering Devops.
 
-<img src="imageshttps://images.app.goo.gl/uz7jbkAutiYXcPd19">
-
 A DevOps engineer is an IT professional who understands both the developmental and operational aspects of software projects.
 
 I am an ALX student learning shell basics, permissions, variables, expansions and redirections.
